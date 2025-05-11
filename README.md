@@ -1,1 +1,2 @@
-# PLAY-GTA6
+#Rickroll
+Um site com a música "Never Gonna Give You Up" que toca automaticamente e que pode ser usada para fazer rickroll com seus amigos.
